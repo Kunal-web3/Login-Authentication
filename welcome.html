@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Welcome</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Welcome, <span id="user-name"></span> 🎉</h1>
+  <button id="logoutBtn" class="btn" style="width:200px; margin-top:20px;">Logout</button>
+
+  <script>
+    const loggedInUser = JSON.parse(localStorage.getItem("loggedInUser"));
+    if (loggedInUser && loggedInUser.username) {
+      document.getElementById("user-name").textContent = loggedInUser.username;
+    } else {
+      window.location.href = "index.html";
+    }
+
+    document.getElementById("logoutBtn").addEventListener("click", () => {
+      localStorage.removeItem("loggedInUser"); // ✅ only session clear
+      window.location.href = "index.html";
+    });
+  </script>
+</body>
+</html>
