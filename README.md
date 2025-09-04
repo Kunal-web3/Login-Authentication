@@ -13,9 +13,9 @@ It allows users to register, login, and logout, with credentials stored in Local
 
 ## 🛠️ Tech Stack
 
-HTML5 – structure
-CSS3 – modern UI design & responsiveness
-JavaScript (ES6) – authentication logic & interactivity
+HTML5 – structure <br>
+CSS3 – modern UI design & responsiveness <br>
+JavaScript (ES6) – authentication logic & interactivity <br>
 
 ---
 
@@ -23,12 +23,12 @@ JavaScript (ES6) – authentication logic & interactivity
 
 📌 OIBSIP-LoginAuth/
 
-├── index.html # Login & Registration UI
-├── style.css # Styling (forms, messages, responsiveness)
-├── script.js # Authentication logic (register, login, logout)
-├── welcome.html # Redirect page after successful login
-├── screenshot.png # Project preview
-└── README.md # Project documentation
+├── index.html # Login & Registration UI <br>
+├── style.css # Styling (forms, messages, responsiveness) <br>
+├── script.js # Authentication logic (register, login, logout) <br>
+├── welcome.html # Redirect page after successful login <br>
+├── screenshot.png # Project preview <br>
+└── README.md # Project documentation <br>
 
 ---
 
@@ -44,27 +44,27 @@ JavaScript (ES6) – authentication logic & interactivity
 
 ## ✨ Features
 
-✅ User Registration with validation
-✅ Direct Auto-Redirect to Login after Registration
-✅ Login Authentication using LocalStorage
-✅ Forgot Password & Reset Password functionality
-✅ Dynamic Success & Error Messages (without alerts)
-✅ Auto-Redirect to Welcome Page after Login
-✅ Logout functionality for session handling
-✅ Fully Responsive across all devices
-✅ Modern UI with smooth form transitions
+✅ User Registration with validation <br>
+✅ Direct Auto-Redirect to Login after Registration <br>
+✅ Login Authentication using LocalStorage <br>
+✅ Forgot Password & Reset Password functionality <br>
+✅ Dynamic Success & Error Messages (without alerts) <br>
+✅ Auto-Redirect to Welcome Page after Login <br>
+✅ Logout functionality for session handling <br>
+✅ Fully Responsive across all devices <br>
+✅ Modern UI with smooth form transitions <br>
 
 ---
 
 ## 🎯 Learning Outcomes
 
-Through this project, I learned:
+Through this project, I learned: <br>
 
-📌 Implementing form validation & authentication logic in JavaScript
-📌 Handling LocalStorage for storing and updating user data
-📌 Creating dynamic message boxes for better UI feedback
-📌 Implementing Forgot Password & Reset Password features
-📌 Designing responsive forms with CSS Flexbox & Grid
+📌 Implementing form validation & authentication logic in JavaScript <br>
+📌 Handling LocalStorage for storing and updating user data <br>
+📌 Creating dynamic message boxes for better UI feedback <br>
+📌 Implementing Forgot Password & Reset Password features <br>
+📌 Designing responsive forms with CSS Flexbox & Grid <br>
 
 ---
 
@@ -75,5 +75,6 @@ Special thanks to Oasis Infobyte (OIBSIP) for the opportunity and guidance.
 ---
 
 ## 📢 Connect with Me  
+
 
 🔗 [LinkedIn](https://www.linkedin.com/in/kunal-jadhav-kj) | 🌐 [GitHub](https://github.com/kunal-web3)
