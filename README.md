@@ -7,7 +7,7 @@ It allows users to register, login, and logout, with credentials stored in Local
 
 ## 🚀 Live Demo
 
-🔗 [Try it here](https://kunal-web3.github.io/OIBSIP-Login-Authentication-4/) 
+🔗 [Try it here](https://kunal-web3.github.io/Login-Authentication/) 
 
 ---
 
@@ -78,4 +78,5 @@ Special thanks to Oasis Infobyte (OIBSIP) for the opportunity and guidance.
 
 
 🔗 [LinkedIn](https://www.linkedin.com/in/kunal-jadhav-kj) | 🌐 [GitHub](https://github.com/kunal-web3)
+
 
